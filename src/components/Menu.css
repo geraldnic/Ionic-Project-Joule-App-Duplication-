@@ -1,0 +1,27 @@
+.menuItem {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.homeItem {
+    margin-top: 20px;
+}
+
+.backgroundMenuImage {
+    --ion-background-color: #FD664B;
+    width: 100%;
+}
+
+.backgroundMenu {
+    --ion-background-color: white;
+}
+
+.menuImage {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}

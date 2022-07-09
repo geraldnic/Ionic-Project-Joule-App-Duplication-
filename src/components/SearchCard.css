@@ -1,0 +1,28 @@
+.searchCaption {
+    top: 7%;
+    left: 0;
+    margin: 20px;
+    font-size: 17px;
+    text-align: left;
+    color: black;
+    font-weight: bold;
+    position: absolute;
+}
+
+.searchImage {
+    width: 110%;
+    margin: 0px;
+    padding: 0px;
+    height: 150px;
+}
+
+.imageCol {
+    margin: 0;
+    width: 100%;
+    padding: 0px;
+}
+
+.searchCard {
+    height: 150px;
+    border-radius: 10px;
+}

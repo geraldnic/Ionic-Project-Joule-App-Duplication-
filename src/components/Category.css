@@ -1,0 +1,18 @@
+.categoryCard {
+    margin: 0px;
+    padding-bottom: 15px;
+}
+
+.categoryImage {
+    width: 100%;
+    height: 100%;
+}
+
+.categoryCaption {
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
